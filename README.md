@@ -1,8 +1,8 @@
-# README Generator 
+# a 
   
   ## Description
 
-  this will automatically create a readme for you
+  a
 
   ## Table of Contents
 
@@ -15,25 +15,26 @@
 
   ## Installation
 
-  install dependencies and run via node in the terminal
+  a
 
   ## Usage
 
-  use this to have a readme automatically created for you
+  a
 
   ## License
 
   MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Contributing 
 
-  request access to repo
+  a
 
   ## Tests
 
-  no tests
+  a
 
   ## Questions
   Here are links to my github profile and email address if you would like to reach out to me with any additional questions.
-  [Github](https://github.com/sieraford)
-  [Email](mailto:siera_ford@yahoo.com)
+  [Github](https://github.com/a)
+  [Email](mailto:a)

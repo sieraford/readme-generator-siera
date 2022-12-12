@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown')
+const renderLicenseBadge = require('./utils/generateMarkdown')
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
@@ -65,7 +66,9 @@ function init() {
   .prompt(questions)
   .then((answers) => {
     const readmePageContent = generateMarkdown(answers);
-    writeToFile('README.md', readmePageContent);
+    const licenseBadge = renderLicenseBadge(answers);
+    writeToFile('README.md', readmePageContent)
+    // fs.appendFile('README.md', licenseBadge)
   });
 
 }
