@@ -26,14 +26,30 @@ const questions = [
     message: 'What is the usage?',
   },
   {
-    type: 'input',
-    name: 'credits',
-    message: 'What are the credits?',
+    type: 'list',
+    name: 'license',
+    message: 'What is the license?',
+    choices: [ "MIT License", "GNU GPLv3", "Apache License 2.0", "ISC License", "None" ]
   },
   {
     type: 'input',
-    name: 'license',
-    message: 'What is the license?',
+    name: 'contributing',
+    message: 'How to contribute?',
+  },
+  {
+    type: 'input',
+    name: 'tests',
+    message: 'What are the test instructions?',
+  },
+  {
+    type: 'input',
+    name: 'github',
+    message: 'What is your github username?',
+  },
+  {
+    type: 'input',
+    name: 'email',
+    message: 'What is your email?',
   },
 ];
 
