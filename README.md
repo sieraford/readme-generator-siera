@@ -1,8 +1,8 @@
-# a [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator <div align="right">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</div>
   
   ## Description
 
-  a
+  This is a command-line application that dynamically generates a professional README.md file from a user's input
 
   ## Table of Contents
 
@@ -15,25 +15,27 @@
 
   ## Installation
 
-  a
+  npm install and then run via node index.js
 
   ## Usage
 
-  a
+  Use this to quickly create a professional README for a new project
 
   ## License
 
-  MIT License
+  [MIT License](https://opensource.org/licenses/MIT)
   
   ## Contributing 
 
-  a
+  open a pull request
 
   ## Tests
 
-  a
+  no tests
 
   ## Questions
   Here are links to my github profile and email address if you would like to reach out to me with any additional questions.
-  [Github](https://github.com/a)
-  [Email](mailto:a)
+
+  [Github](https://github.com/sieraford) 
+
+  [Email](mailto:siera_ford@yahoo.com)

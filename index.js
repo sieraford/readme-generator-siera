@@ -19,12 +19,12 @@ const questions = [
   {
     type: 'input',
     name: 'installation',
-    message: 'What is the installation?',
+    message: 'What are the installation instructions?',
   },
   {
     type: 'input',
     name: 'usage',
-    message: 'What is the usage?',
+    message: 'What is the usage information?',
   },
   {
     type: 'list',
@@ -35,7 +35,7 @@ const questions = [
   {
     type: 'input',
     name: 'contributing',
-    message: 'How to contribute?',
+    message: 'What are the contribution guidelines?',
   },
   {
     type: 'input',
