@@ -7,6 +7,11 @@ const fs = require('fs');
 const questions = [
   {
     type: 'input',
+    name: 'title',
+    message: 'What is the title?',
+  },
+  {
+    type: 'input',
     name: 'description',
     message: 'What is the description?',
   },
