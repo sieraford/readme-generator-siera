@@ -21,6 +21,8 @@ Clone the repo, npm install to download dependencies and then run the program wi
 
 Run the program with the command node index.js and then you will be prompted with a series of questions. Once all questions are answered, a README.md file will be generated for you.
 
+[DEMO VIDEO HERE](https://drive.google.com/file/d/1TCkyQQBHb2vaeibvqrGkgr5hj9AEiD-Z/view?usp=sharing)
+
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
