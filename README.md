@@ -1,30 +1,31 @@
 # README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
-  ## Description
 
-  A simple NodeJS program that generates a professional README markdown file based on user input.
+## Description
 
-  ## Table of Contents
+A simple NodeJS program that generates a professional README markdown file based on user input.
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+## Table of Contents
 
-  ## Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  Clone the repo, npm install to download dependencies and then run the program with the command node index.js
+## Installation
 
-  ## Usage
+Clone the repo, npm install to download dependencies and then run the program with the command node index.js
 
-  Run the program with the command node index.js and then you will be prompted with a series of questions. Once all questions are answered, a README.md file will be generated for you.
+## Usage
 
-  ## License
-  [MIT License](https://opensource.org/licenses/MIT)
+Run the program with the command node index.js and then you will be prompted with a series of questions. Once all questions are answered, a README.md file will be generated for you.
 
-  Copyright (c) 2022 Siera Ford
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2022 Siera Ford
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -32,10 +33,10 @@
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
-    
+
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
-    
+
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -44,17 +45,18 @@
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-  ## Contributing 
+## Contributing
 
-  Feel free to submit a pull request.
+Feel free to submit a pull request.
 
-  ## Tests
+## Tests
 
-  N/A
+N/A
 
-  ## Questions
-  Here are links to my github profile and email address if you would like to reach out to me with any additional questions.
+## Questions
 
-  [Github](https://github.com/sieraford) 
+Here are links to my github profile and email address if you would like to reach out to me with any additional questions.
 
-  [Email](mailto:siera_ford@yahoo.com)
+[Github](https://github.com/sieraford)
+
+[Email](mailto:siera_ford@yahoo.com)
